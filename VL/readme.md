@@ -40,8 +40,7 @@
 5
 
 1 2 3 4 5
-
-
+---------
 2
 4 5 1 2 3 
 
@@ -67,8 +66,7 @@
 4
 
 21 10 5 39
-
-
+----------
 2 
 
 2 
@@ -107,7 +105,7 @@ ABC##DE#G##F###
 a#b#cdef#####
 
 a##
-
+-------------
 a b f e d c 
 
 a 
@@ -177,8 +175,7 @@ A integer on a single line for each case indicates the number of lights which ar
 15
 
 20
-
-
+---
 3
 
 3
