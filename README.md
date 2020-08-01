@@ -1,2 +1,2 @@
-# SiamMask
-SiamMask_test by colab
+# Algorithm
+All Algorithm tests
